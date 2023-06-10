@@ -1,0 +1,189 @@
+{
+   "blockedLinkPageOpenedSecureExplanation": {
+      "description": "Explain to the user that they have opened the website in a secure web browser.",
+      "message": "HP Sure Click Secure Browserで、このサイトを開きました。"
+   },
+   "blockedLinkPageTitle": {
+      "description": "Warn the user that they may be visiting an unsafe website.",
+      "message": "このサイトには、潜在的な脅威が存在する可能性があります:"
+   },
+   "blockedPDFPageOpenedSecureExplanation": {
+      "description": "Explain to the user that they have opened the PDF file in a secure web browser.",
+      "message": "HP Sure Click Secure Browserで、このPDFファイルを開きました。"
+   },
+   "blockedPDFPageTitle": {
+      "description": "Warn the user that they may be about to view an unsafe PDF file.",
+      "message": "このサイト上のPDFファイルには、潜在的な脅威が含まれている可能性があります:"
+   },
+   "blockedPageContinue": {
+      "description": "Button to continue using the original web browser.",
+      "message": "このブラウザで操作を続行する"
+   },
+   "blockedPageContinueV2": {
+      "description": "Button to continue using the original web browser.",
+      "message": "{THIS_BROWSER}で続行する"
+   },
+   "blockedPageHelpLink": {
+      "description": "Help link text.",
+      "message": "詳細情報"
+   },
+   "blockedPageRemember": {
+      "description": "Checkbox to remember the user's choice.",
+      "message": "このサイトに対する操作をシステムに記憶させる"
+   },
+   "blockedPageSecure": {
+      "description": "Button to open the website in a secure web browser.",
+      "message": "HP Sure Click Secure Browserで開く"
+   },
+   "blockedPageSecureBrowserExplanation": {
+      "description": "Explain the Secure Browser to the user.",
+      "message": "HP Sure Click Secure Browserは、マルウェア、ランサムウェア、ウィルスに感染したWebサイトやファイルからコンピュータを保護します。"
+   },
+   "blockedPageUntrustedTooltip": {
+      "description": "Tooltip explaining why an untrusted site has been blocked.",
+      "message": "HP Wolf Securityによって信頼されないWebサイトが検出されました"
+   },
+   "blockedPageWarningTooltip": {
+      "description": "Tooltip explaining why a site has been blocked.",
+      "message": "HP Wolf Securityによって未確認のWebサイトが検出されました"
+   },
+   "contextMenuOpenSecure": {
+      "description": "Context menu item to open a link in a secure web browser.",
+      "message": "Secure Browserで開く"
+   },
+   "extDescription": {
+      "description": "Web browser extension description.",
+      "message": "HP Wolf Securityでインターネットを安全に閲覧できます。"
+   },
+   "extName": {
+      "description": "Web browser extension name.",
+      "message": "HP Wolf Security Extension"
+   },
+   "helpLinkLocale": {
+      "message": "ja"
+   },
+   "launchedLinkPageOpenedSecureExplanation": {
+      "description": "Inform the user that the extension has opened the site in a secure web browser.",
+      "message": "このサイトはHP Sure Click Secure Browserで開かれています。"
+   },
+   "launchedPDFPageOpenedSecureExplanation": {
+      "description": "Inform the user that the extension has opened the PDF file in a secure web browser.",
+      "message": "このPDFファイルはHP Sure Click Secure Browserで開かれています。"
+   },
+   "launchedPageCloseTab": {
+      "description": "Text for a button to close the current tab.",
+      "message": "タブを閉じる"
+   },
+   "launchedPageGoBack": {
+      "description": "Text for a button to navigate back to the previous website.",
+      "message": "戻る"
+   },
+   "optionsAllowedDomainsEmpty": {
+      "description": "Text displayed when there are no allowed domains.",
+      "message": "現在このリストは空です"
+   },
+   "optionsAllowedDomainsSectionHeader": {
+      "description": "Section header for a list of websites for which credential entry has been allowed",
+      "message": "資格情報の入力が許可されているサイト:"
+   },
+   "optionsPageLoggingToggle": {
+      "description": "Text beside a toggle to enable / disable logging.",
+      "message": "ログ記録を有効にする"
+   },
+   "optionsPageNoOptions": {
+      "description": "Message telling the user that there's nothing for them to configure on the options page.",
+      "message": "設定するオプションがありません。"
+   },
+   "overlayBlacklist_Description": {
+      "description": "Description of the warning",
+      "message": "HP Credential Protectionは、既知のフィッシングサイトをブロックしました。"
+   },
+   "overlayBlacklist_Title": {
+      "description": "Title of the warning message to display to the user",
+      "message": "警告: 認証情報盗難をブロックしました"
+   },
+   "overlayBlockedFile_Description": {
+      "description": "Description of the warning when blocking a file URL",
+      "message": "HP Credential Protectionは潜在的に悪意があるファイルをブロックしました。"
+   },
+   "overlayHttpBlacklist_Description": {
+      "description": "Description of the warning when blocking an HTTP site",
+      "message": "HP Credential Protectionは、暗号化せずにインターネット上で認証情報を送信するサイトをブロックしました。"
+   },
+   "overlayHttpBlacklist_Title": {
+      "description": "Title of the warning.",
+      "message": "警告: 安全でないログインページをブロックしました"
+   },
+   "overlayManagedUnknown_Title": {
+      "description": "Title of the warning.",
+      "message": "警告: 認証情報盗難をブロックした可能性"
+   },
+   "overlayNormalUnknown_Description": {
+      "description": "Description for an unknown site.",
+      "message": "HP Credential Protectionは認証情報を盗もうとしている可能性がある、不明なサイトをブロックしました。"
+   },
+   "overlayNormalUnknown_Title": {
+      "description": "Title of the warning.",
+      "message": "警告: 認証情報盗難の可能性"
+   },
+   "overlay_AllowInputButton": {
+      "description": "Button text informing the user they can continue in full interactive mode.",
+      "message": "このサイトを信頼しているので続行する"
+   },
+   "overlay_BackToSafetyButton": {
+      "description": "A button for the user to click to get back to safety",
+      "message": "安全な状態に戻る"
+   },
+   "overlay_BlameAdmin": {
+      "description": "Notice to the user that they should contact their administrator if they think there's a mistake.",
+      "message": "この設定が正しくないと思われる場合は、HP Wolf Securityの管理者に連絡してください。"
+   },
+   "overlay_ViewPageLinkButton": {
+      "description": "A button for the user to continue to view the page with login disabled",
+      "message": "ログインを無効化して続行する"
+   },
+   "popupClearRememberedDecisionsButton": {
+      "description": "Button to forget all decisions remembered by the extension.",
+      "message": "サイトをクリア"
+   },
+   "popupClearRememberedDecisionsText": {
+      "description": "Message explaining that popupClearRememberedDecisionsButton forgets all decisions remembered by the extension.",
+      "message": "HP Wolf Security Extensionは、HP Sure Click Secure Browserを使用して安全に開くように選択したサイトと、デフォルトのブラウザを使用して開くように選択したサイトを記憶します。過去の選択をクリアするには、以下のボタンをクリックしてください。"
+   },
+   "popupDisabled": {
+      "description": "Message displayed when the extension is disabled.",
+      "message": "HP Wolf Security Extensionは無効になっています。"
+   },
+   "popupGenericError": {
+      "description": "Message displayed when there is an unknown error. The '\n' marks a new line.",
+      "message": "HP Wolf Securityでエラーが発生しました。\nブラウザを再起動してください。"
+   },
+   "popupHelpLinkText": {
+      "description": "Text which links to the help page.",
+      "message": "さらに詳しく見る"
+   },
+   "popupMissingHelper": {
+      "description": "Message displayed when there is an error because the product is not installed.",
+      "message": "拡張機能がHP Wolf Securityに接続できません。対応するバージョンのHP Wolf Securityがインストールおよび実行されていることを確認してください。"
+   },
+   "popupNoError": {
+      "description": "Message displayed when there are no errors.",
+      "message": "HP Wolf Securityによって保護されています。"
+   },
+   "popupSecureBrowserWindowButton": {
+      "description": "Button to open a new Secure Browser window.",
+      "message": "Secure Browserで新しいウインドウを開く"
+   },
+   "popupSureClickInitRequired": {
+      "description": "Message displayed when the product requires initialization.",
+      "message": "HP Sure Clickを初期化する必要があります。"
+   },
+   "popupSureClickUnconfigured": {
+      "description": "Message displayed to a consumer customer when the product is unlicensed.",
+      "message": "HP Sure Clickは、無効になっています。現在は、設定を待機している状態です。"
+   },
+   "popupSureClickUnlicensed": {
+      "description": "Message displayed to an enterprise customer when the product is unlicensed.",
+      "message": "HP Sure Clickにライセンスがないため無効になっています。"
+   }
+}

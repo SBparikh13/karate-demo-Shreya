@@ -1,0 +1,189 @@
+{
+   "blockedLinkPageOpenedSecureExplanation": {
+      "description": "Explain to the user that they have opened the website in a secure web browser.",
+      "message": "Du har åbnet webstedet i HP Sure Click Secure Browser."
+   },
+   "blockedLinkPageTitle": {
+      "description": "Warn the user that they may be visiting an unsafe website.",
+      "message": "Dette websted kan indeholde potentielle trusler:"
+   },
+   "blockedPDFPageOpenedSecureExplanation": {
+      "description": "Explain to the user that they have opened the PDF file in a secure web browser.",
+      "message": "Du har åbnet PDF-filen i HP Sure Click Secure Browser."
+   },
+   "blockedPDFPageTitle": {
+      "description": "Warn the user that they may be about to view an unsafe PDF file.",
+      "message": "Denne PDF-fil fra dette websted kan indeholde potentielle trusler:"
+   },
+   "blockedPageContinue": {
+      "description": "Button to continue using the original web browser.",
+      "message": "Fortsæt i denne browser"
+   },
+   "blockedPageContinueV2": {
+      "description": "Button to continue using the original web browser.",
+      "message": "Fortsæt i {THIS_BROWSER}"
+   },
+   "blockedPageHelpLink": {
+      "description": "Help link text.",
+      "message": "Få mere at vide"
+   },
+   "blockedPageRemember": {
+      "description": "Checkbox to remember the user's choice.",
+      "message": "Husk min beslutning om dette websted"
+   },
+   "blockedPageSecure": {
+      "description": "Button to open the website in a secure web browser.",
+      "message": "Åbn i HP Sure Click Secure Browser"
+   },
+   "blockedPageSecureBrowserExplanation": {
+      "description": "Explain the Secure Browser to the user.",
+      "message": "HP Sure Click Secure Browser hjælper dig med at beskytte din pc mod websteder og filer, der er inficeret med malware, ransomware eller virus."
+   },
+   "blockedPageUntrustedTooltip": {
+      "description": "Tooltip explaining why an untrusted site has been blocked.",
+      "message": "HP Wolf Security har registreret et websted, der ikke er tillid til"
+   },
+   "blockedPageWarningTooltip": {
+      "description": "Tooltip explaining why a site has been blocked.",
+      "message": "HP Wolf Security har registreret et uidentificeret websted"
+   },
+   "contextMenuOpenSecure": {
+      "description": "Context menu item to open a link in a secure web browser.",
+      "message": "Åbn i Secure Browser"
+   },
+   "extDescription": {
+      "description": "Web browser extension description.",
+      "message": "Sikker internetsurfing med HP Wolf Security."
+   },
+   "extName": {
+      "description": "Web browser extension name.",
+      "message": "HP Wolf Security Extension"
+   },
+   "helpLinkLocale": {
+      "message": "da"
+   },
+   "launchedLinkPageOpenedSecureExplanation": {
+      "description": "Inform the user that the extension has opened the site in a secure web browser.",
+      "message": "Dette websted er blevet åbnet i HP Sure Click Secure Browser."
+   },
+   "launchedPDFPageOpenedSecureExplanation": {
+      "description": "Inform the user that the extension has opened the PDF file in a secure web browser.",
+      "message": "Denne PDF-fil er blevet åbnet i HP Sure Click Secure Browser."
+   },
+   "launchedPageCloseTab": {
+      "description": "Text for a button to close the current tab.",
+      "message": "Luk fanen"
+   },
+   "launchedPageGoBack": {
+      "description": "Text for a button to navigate back to the previous website.",
+      "message": "Tilbage"
+   },
+   "optionsAllowedDomainsEmpty": {
+      "description": "Text displayed when there are no allowed domains.",
+      "message": "Denne liste er i øjeblikket tom"
+   },
+   "optionsAllowedDomainsSectionHeader": {
+      "description": "Section header for a list of websites for which credential entry has been allowed",
+      "message": "Steder, hvor det er tilladt at indtaste loginoplysninger:"
+   },
+   "optionsPageLoggingToggle": {
+      "description": "Text beside a toggle to enable / disable logging.",
+      "message": "Aktiver logføring"
+   },
+   "optionsPageNoOptions": {
+      "description": "Message telling the user that there's nothing for them to configure on the options page.",
+      "message": "Der er ikke nogen indstillinger, der kan konfigureres."
+   },
+   "overlayBlacklist_Description": {
+      "description": "Description of the warning",
+      "message": "HP Credential Protection har blokeret et kendt phishingwebsted."
+   },
+   "overlayBlacklist_Title": {
+      "description": "Title of the warning message to display to the user",
+      "message": "Advarsel: Tyveri af loginoplysninger er blevet blokeret"
+   },
+   "overlayBlockedFile_Description": {
+      "description": "Description of the warning when blocking a file URL",
+      "message": "HP Credential Protection har blokeret en potentielt skadelig fil."
+   },
+   "overlayHttpBlacklist_Description": {
+      "description": "Description of the warning when blocking an HTTP site",
+      "message": "HP Credential Protection har blokeret et websted, der sender loginoplysninger over internettet uden at kryptere dem."
+   },
+   "overlayHttpBlacklist_Title": {
+      "description": "Title of the warning.",
+      "message": "Advarsel: En webside, der bruger en usikker loginmetode, er blevet blokeret"
+   },
+   "overlayManagedUnknown_Title": {
+      "description": "Title of the warning.",
+      "message": "Advarsel: Potentielt forsøg på tyveri af loginoplysninger er blevet blokeret"
+   },
+   "overlayNormalUnknown_Description": {
+      "description": "Description for an unknown site.",
+      "message": "HP Credential Protection har blokeret et ukendt websted, som muligvis har forsøgt at stjæle dine loginoplysninger."
+   },
+   "overlayNormalUnknown_Title": {
+      "description": "Title of the warning.",
+      "message": "Advarsel: Potentielt forsøg på tyveri af loginoplysninger"
+   },
+   "overlay_AllowInputButton": {
+      "description": "Button text informing the user they can continue in full interactive mode.",
+      "message": "Fortsæt, jeg stoler på dette websted"
+   },
+   "overlay_BackToSafetyButton": {
+      "description": "A button for the user to click to get back to safety",
+      "message": "Tilbage til sikkerhed"
+   },
+   "overlay_BlameAdmin": {
+      "description": "Notice to the user that they should contact their administrator if they think there's a mistake.",
+      "message": "Hvis du mener, at dette ikke er korrekt, skal du kontakte HP Wolf Security-administratoren."
+   },
+   "overlay_ViewPageLinkButton": {
+      "description": "A button for the user to continue to view the page with login disabled",
+      "message": "Fortsæt uden at logge på"
+   },
+   "popupClearRememberedDecisionsButton": {
+      "description": "Button to forget all decisions remembered by the extension.",
+      "message": "Ryd websteder"
+   },
+   "popupClearRememberedDecisionsText": {
+      "description": "Message explaining that popupClearRememberedDecisionsButton forgets all decisions remembered by the extension.",
+      "message": "HP Wolf Security Extension husker, hvilke websteder du har valgt at få sikker adgang til via HP Sure Click Secure Browser, og hvilke websteder du har valgt at åbne i standardbrowseren. Klik på knappen nedenfor for at slette disse valg."
+   },
+   "popupDisabled": {
+      "description": "Message displayed when the extension is disabled.",
+      "message": "HP Wolf Security Extension er deaktiveret."
+   },
+   "popupGenericError": {
+      "description": "Message displayed when there is an unknown error. The '\n' marks a new line.",
+      "message": "Der opstod en fejl i HP Wolf Security.\nGenstart browseren."
+   },
+   "popupHelpLinkText": {
+      "description": "Text which links to the help page.",
+      "message": "Få mere at vide"
+   },
+   "popupMissingHelper": {
+      "description": "Message displayed when there is an error because the product is not installed.",
+      "message": "Udvidelsen kan ikke oprette forbindelse til HP Wolf Security. Kontrollér, at en kompatibel version af HP Wolf Security er installeret og kører."
+   },
+   "popupNoError": {
+      "description": "Message displayed when there are no errors.",
+      "message": "Du er beskyttet af HP Wolf Security."
+   },
+   "popupSecureBrowserWindowButton": {
+      "description": "Button to open a new Secure Browser window.",
+      "message": "Åbn i et nyt Secure Browser-vindue"
+   },
+   "popupSureClickInitRequired": {
+      "description": "Message displayed when the product requires initialization.",
+      "message": "HP Sure Click skal initialiseres."
+   },
+   "popupSureClickUnconfigured": {
+      "description": "Message displayed to a consumer customer when the product is unlicensed.",
+      "message": "HP Sure Click mangler at blive konfigureret og er blevet deaktiveret."
+   },
+   "popupSureClickUnlicensed": {
+      "description": "Message displayed to an enterprise customer when the product is unlicensed.",
+      "message": "HP Sure Click mangler licens og er blevet deaktiveret."
+   }
+}

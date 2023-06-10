@@ -1,0 +1,189 @@
+{
+   "blockedLinkPageOpenedSecureExplanation": {
+      "description": "Explain to the user that they have opened the website in a secure web browser.",
+      "message": "Ha abierto el sitio en HP Sure Click Secure Browser."
+   },
+   "blockedLinkPageTitle": {
+      "description": "Warn the user that they may be visiting an unsafe website.",
+      "message": "Este sitio podría albergar amenazas potenciales:"
+   },
+   "blockedPDFPageOpenedSecureExplanation": {
+      "description": "Explain to the user that they have opened the PDF file in a secure web browser.",
+      "message": "Ha abierto el archivo PDF en HP Sure Click Secure Browser."
+   },
+   "blockedPDFPageTitle": {
+      "description": "Warn the user that they may be about to view an unsafe PDF file.",
+      "message": "El archivo PDF de este sitio podría albergar amenazas potenciales:"
+   },
+   "blockedPageContinue": {
+      "description": "Button to continue using the original web browser.",
+      "message": "Continuar en este navegador"
+   },
+   "blockedPageContinueV2": {
+      "description": "Button to continue using the original web browser.",
+      "message": "Continuar en {THIS_BROWSER}"
+   },
+   "blockedPageHelpLink": {
+      "description": "Help link text.",
+      "message": "Más información"
+   },
+   "blockedPageRemember": {
+      "description": "Checkbox to remember the user's choice.",
+      "message": "Recordar mi decisión para este sitio"
+   },
+   "blockedPageSecure": {
+      "description": "Button to open the website in a secure web browser.",
+      "message": "Abrir en HP Sure Click Secure Browser"
+   },
+   "blockedPageSecureBrowserExplanation": {
+      "description": "Explain the Secure Browser to the user.",
+      "message": "HP Sure Click Secure Browser ayuda a proteger su PC de sitios web y archivos infectados con malware, ransomware o virus."
+   },
+   "blockedPageUntrustedTooltip": {
+      "description": "Tooltip explaining why an untrusted site has been blocked.",
+      "message": "Sitio web no confiable detectado por HP Wolf Security"
+   },
+   "blockedPageWarningTooltip": {
+      "description": "Tooltip explaining why a site has been blocked.",
+      "message": "Sitio web no identificado detectado por HP Wolf Security"
+   },
+   "contextMenuOpenSecure": {
+      "description": "Context menu item to open a link in a secure web browser.",
+      "message": "Abrir en Secure Browser"
+   },
+   "extDescription": {
+      "description": "Web browser extension description.",
+      "message": "Navegación segura por Internet con HP Wolf Security."
+   },
+   "extName": {
+      "description": "Web browser extension name.",
+      "message": "HP Wolf Security Extension"
+   },
+   "helpLinkLocale": {
+      "message": "es"
+   },
+   "launchedLinkPageOpenedSecureExplanation": {
+      "description": "Inform the user that the extension has opened the site in a secure web browser.",
+      "message": "El sitio se ha abierto en HP Sure Click Secure Browser."
+   },
+   "launchedPDFPageOpenedSecureExplanation": {
+      "description": "Inform the user that the extension has opened the PDF file in a secure web browser.",
+      "message": "El archivo PDF se ha abierto en HP Sure Click Secure Browser."
+   },
+   "launchedPageCloseTab": {
+      "description": "Text for a button to close the current tab.",
+      "message": "Cerrar pestaña"
+   },
+   "launchedPageGoBack": {
+      "description": "Text for a button to navigate back to the previous website.",
+      "message": "Volver"
+   },
+   "optionsAllowedDomainsEmpty": {
+      "description": "Text displayed when there are no allowed domains.",
+      "message": "Esta lista está vacía"
+   },
+   "optionsAllowedDomainsSectionHeader": {
+      "description": "Section header for a list of websites for which credential entry has been allowed",
+      "message": "Sitios donde se permite la introducción de credenciales:"
+   },
+   "optionsPageLoggingToggle": {
+      "description": "Text beside a toggle to enable / disable logging.",
+      "message": "Habilitar registro"
+   },
+   "optionsPageNoOptions": {
+      "description": "Message telling the user that there's nothing for them to configure on the options page.",
+      "message": "No tiene ninguna opción que configurar."
+   },
+   "overlayBlacklist_Description": {
+      "description": "Description of the warning",
+      "message": "HP Credential Protection ha bloqueado un sitio web de phishing conocido."
+   },
+   "overlayBlacklist_Title": {
+      "description": "Title of the warning message to display to the user",
+      "message": "Advertencia: se ha bloqueado un intento de robo de credenciales"
+   },
+   "overlayBlockedFile_Description": {
+      "description": "Description of the warning when blocking a file URL",
+      "message": "HP Credential Protection ha bloqueado un archivo potencialmente malicioso."
+   },
+   "overlayHttpBlacklist_Description": {
+      "description": "Description of the warning when blocking an HTTP site",
+      "message": "HP Credential Protection ha bloqueado un sitio web que envía credenciales por Internet sin cifrar."
+   },
+   "overlayHttpBlacklist_Title": {
+      "description": "Title of the warning.",
+      "message": "Advertencia: página de inicio de sesión poco segura bloqueada"
+   },
+   "overlayManagedUnknown_Title": {
+      "description": "Title of the warning.",
+      "message": "Advertencia: posible intento de robo de credenciales bloqueado"
+   },
+   "overlayNormalUnknown_Description": {
+      "description": "Description for an unknown site.",
+      "message": "HP Credential Protection ha bloqueado un sitio web desconocido que podría estar intentando robar sus credenciales."
+   },
+   "overlayNormalUnknown_Title": {
+      "description": "Title of the warning.",
+      "message": "Advertencia: posibilidad de robo de credenciales"
+   },
+   "overlay_AllowInputButton": {
+      "description": "Button text informing the user they can continue in full interactive mode.",
+      "message": "Confío en este sitio web, continuar"
+   },
+   "overlay_BackToSafetyButton": {
+      "description": "A button for the user to click to get back to safety",
+      "message": "Volver a zona segura"
+   },
+   "overlay_BlameAdmin": {
+      "description": "Notice to the user that they should contact their administrator if they think there's a mistake.",
+      "message": "Si cree que eso es incorrecto, póngase en contacto con su administrador de HP Wolf Security."
+   },
+   "overlay_ViewPageLinkButton": {
+      "description": "A button for the user to continue to view the page with login disabled",
+      "message": "Continuar con inicio de sesión deshabilitado"
+   },
+   "popupClearRememberedDecisionsButton": {
+      "description": "Button to forget all decisions remembered by the extension.",
+      "message": "Borrar sitios"
+   },
+   "popupClearRememberedDecisionsText": {
+      "description": "Message explaining that popupClearRememberedDecisionsButton forgets all decisions remembered by the extension.",
+      "message": "HP Wolf Security Extension recuerda a qué sitios ha decidido acceder de modo seguro utilizando el HP Sure Click Secure Browser y qué sitios ha decidido abrir utilizando el navegador predeterminado. Haga clic en el botón de abajo para borrar estas opciones."
+   },
+   "popupDisabled": {
+      "description": "Message displayed when the extension is disabled.",
+      "message": "HP Wolf Security Extension está deshabilitado."
+   },
+   "popupGenericError": {
+      "description": "Message displayed when there is an unknown error. The '\n' marks a new line.",
+      "message": "Se ha producido un error en HP Wolf Security.\nReinicie el navegador."
+   },
+   "popupHelpLinkText": {
+      "description": "Text which links to the help page.",
+      "message": "Obtener más información"
+   },
+   "popupMissingHelper": {
+      "description": "Message displayed when there is an error because the product is not installed.",
+      "message": "La extensión no puede conectarse a HP Wolf Security. Compruebe que se haya instalado una versión compatible de HP Wolf Security y que esté en ejecución."
+   },
+   "popupNoError": {
+      "description": "Message displayed when there are no errors.",
+      "message": "HP Wolf Security le está protegiendo."
+   },
+   "popupSecureBrowserWindowButton": {
+      "description": "Button to open a new Secure Browser window.",
+      "message": "Abrir nueva ventana de Secure Browser"
+   },
+   "popupSureClickInitRequired": {
+      "description": "Message displayed when the product requires initialization.",
+      "message": "Es necesario inicializar HP Sure Click."
+   },
+   "popupSureClickUnconfigured": {
+      "description": "Message displayed to a consumer customer when the product is unlicensed.",
+      "message": "HP Sure Click está a la espera de configuración y se ha deshabilitado."
+   },
+   "popupSureClickUnlicensed": {
+      "description": "Message displayed to an enterprise customer when the product is unlicensed.",
+      "message": "HP Sure Click no tiene ninguna licencia y se deshabilitó."
+   }
+}

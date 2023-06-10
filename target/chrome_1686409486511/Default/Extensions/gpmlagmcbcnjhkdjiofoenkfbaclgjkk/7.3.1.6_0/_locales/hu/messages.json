@@ -1,0 +1,189 @@
+{
+   "blockedLinkPageOpenedSecureExplanation": {
+      "description": "Explain to the user that they have opened the website in a secure web browser.",
+      "message": "Ezt a helyet a(z) HP Sure Click Secure Browser böngészőben nyitotta meg."
+   },
+   "blockedLinkPageTitle": {
+      "description": "Warn the user that they may be visiting an unsafe website.",
+      "message": "Ez a hely potenciális fenyegetést jelenthet:"
+   },
+   "blockedPDFPageOpenedSecureExplanation": {
+      "description": "Explain to the user that they have opened the PDF file in a secure web browser.",
+      "message": "Ezt a PDF-fájlt a(z) HP Sure Click Secure Browser böngészőben nyitotta meg."
+   },
+   "blockedPDFPageTitle": {
+      "description": "Warn the user that they may be about to view an unsafe PDF file.",
+      "message": "Az erről a helyről letöltött PDF-fájl potenciális fenyegetést jelenthet:"
+   },
+   "blockedPageContinue": {
+      "description": "Button to continue using the original web browser.",
+      "message": "Folytatás ebben a böngészőben"
+   },
+   "blockedPageContinueV2": {
+      "description": "Button to continue using the original web browser.",
+      "message": "Folytatás a következőben: {THIS_BROWSER}"
+   },
+   "blockedPageHelpLink": {
+      "description": "Help link text.",
+      "message": "További információ"
+   },
+   "blockedPageRemember": {
+      "description": "Checkbox to remember the user's choice.",
+      "message": "Jegyezze meg a döntésemet ehhez a helyhez"
+   },
+   "blockedPageSecure": {
+      "description": "Button to open the website in a secure web browser.",
+      "message": "Megnyitás a következőben: HP Sure Click Secure Browser"
+   },
+   "blockedPageSecureBrowserExplanation": {
+      "description": "Explain the Secure Browser to the user.",
+      "message": "A(z) HP Sure Click Secure Browser segít megvédeni számítógépét a kártevőkkel, zsarolóprogramokkal vagy vírusokkal fertőzött webhelyektől és fájloktól."
+   },
+   "blockedPageUntrustedTooltip": {
+      "description": "Tooltip explaining why an untrusted site has been blocked.",
+      "message": "A(z) HP Wolf Security által észlelt nem megbízható webhely"
+   },
+   "blockedPageWarningTooltip": {
+      "description": "Tooltip explaining why a site has been blocked.",
+      "message": "A(z) HP Wolf Security által észlelt azonosítatlan webhely"
+   },
+   "contextMenuOpenSecure": {
+      "description": "Context menu item to open a link in a secure web browser.",
+      "message": "Megnyitás a Secure Browserben"
+   },
+   "extDescription": {
+      "description": "Web browser extension description.",
+      "message": "Biztonságos böngészés a(z) HP Wolf Security használatával."
+   },
+   "extName": {
+      "description": "Web browser extension name.",
+      "message": "HP Wolf Security Extension"
+   },
+   "helpLinkLocale": {
+      "message": "hu"
+   },
+   "launchedLinkPageOpenedSecureExplanation": {
+      "description": "Inform the user that the extension has opened the site in a secure web browser.",
+      "message": "A hely a(z) HP Sure Click Secure Browser böngészőben lett megnyitva."
+   },
+   "launchedPDFPageOpenedSecureExplanation": {
+      "description": "Inform the user that the extension has opened the PDF file in a secure web browser.",
+      "message": "A PDF-fájl a(z) HP Sure Click Secure Browser böngészőben lett megnyitva."
+   },
+   "launchedPageCloseTab": {
+      "description": "Text for a button to close the current tab.",
+      "message": "Lap bezárása"
+   },
+   "launchedPageGoBack": {
+      "description": "Text for a button to navigate back to the previous website.",
+      "message": "Visszalépés"
+   },
+   "optionsAllowedDomainsEmpty": {
+      "description": "Text displayed when there are no allowed domains.",
+      "message": "Ez a lista jelenleg üres"
+   },
+   "optionsAllowedDomainsSectionHeader": {
+      "description": "Section header for a list of websites for which credential entry has been allowed",
+      "message": "Olyan helyek, ahol a hitelesítő adatok bevitele engedélyezett:"
+   },
+   "optionsPageLoggingToggle": {
+      "description": "Text beside a toggle to enable / disable logging.",
+      "message": "Naplózás engedélyezése"
+   },
+   "optionsPageNoOptions": {
+      "description": "Message telling the user that there's nothing for them to configure on the options page.",
+      "message": "Nincsenek konfigurálható beállítások."
+   },
+   "overlayBlacklist_Description": {
+      "description": "Description of the warning",
+      "message": "A(z) HP Credential Protection letiltott egy ismert adathalász helyet."
+   },
+   "overlayBlacklist_Title": {
+      "description": "Title of the warning message to display to the user",
+      "message": "Figyelmeztetés: Hitelesítőadat-lopás letiltva"
+   },
+   "overlayBlockedFile_Description": {
+      "description": "Description of the warning when blocking a file URL",
+      "message": "A(z) HP Credential Protection letiltott egy potenciálisan kártékony fájlt."
+   },
+   "overlayHttpBlacklist_Description": {
+      "description": "Description of the warning when blocking an HTTP site",
+      "message": "A(z) HP Credential Protection letiltott egy helyet, amely titkosítás nélkül küld hitelesítő adatokat az interneten."
+   },
+   "overlayHttpBlacklist_Title": {
+      "description": "Title of the warning.",
+      "message": "Figyelmeztetés: Nem biztonságos bejelentkezési oldal letiltva"
+   },
+   "overlayManagedUnknown_Title": {
+      "description": "Title of the warning.",
+      "message": "Figyelmeztetés: Potenciális hitelesítőadat-lopás letiltva"
+   },
+   "overlayNormalUnknown_Description": {
+      "description": "Description for an unknown site.",
+      "message": "A(z) HP Credential Protection letiltott egy ismeretlen helyet, amely a hitelesítő adatok lopásával próbálkozhat."
+   },
+   "overlayNormalUnknown_Title": {
+      "description": "Title of the warning.",
+      "message": "Figyelmeztetés: Potenciális hitelesítőadat-lopás"
+   },
+   "overlay_AllowInputButton": {
+      "description": "Button text informing the user they can continue in full interactive mode.",
+      "message": "Megbízom ebben a helyben, folytatás"
+   },
+   "overlay_BackToSafetyButton": {
+      "description": "A button for the user to click to get back to safety",
+      "message": "Vissza a biztonsághoz"
+   },
+   "overlay_BlameAdmin": {
+      "description": "Notice to the user that they should contact their administrator if they think there's a mistake.",
+      "message": "Ha úgy gondolja, hogy ez nem így van, lépjen kapcsolatba a(z) HP Wolf Security rendszergazdájával."
+   },
+   "overlay_ViewPageLinkButton": {
+      "description": "A button for the user to continue to view the page with login disabled",
+      "message": "Folytatás a bejelentkezés kikapcsolásával"
+   },
+   "popupClearRememberedDecisionsButton": {
+      "description": "Button to forget all decisions remembered by the extension.",
+      "message": "Helyek törlése"
+   },
+   "popupClearRememberedDecisionsText": {
+      "description": "Message explaining that popupClearRememberedDecisionsButton forgets all decisions remembered by the extension.",
+      "message": "A(z) HP Wolf Security Extension megjegyzi, hogy mely helyek esetében választotta a biztonságos hozzáférést a(z) HP Sure Click Secure Browser használatával, és mely helyeket nyitotta meg az alapértelmezett böngészővel. Az alábbi gombra kattintva törölheti ezeket a választásokat."
+   },
+   "popupDisabled": {
+      "description": "Message displayed when the extension is disabled.",
+      "message": "A HP Wolf Security Extension ki van kapcsolva."
+   },
+   "popupGenericError": {
+      "description": "Message displayed when there is an unknown error. The '\n' marks a new line.",
+      "message": "A(z) HP Wolf Security hibát észlelt.\nIndítsa újra a böngészőt."
+   },
+   "popupHelpLinkText": {
+      "description": "Text which links to the help page.",
+      "message": "További információ kérése"
+   },
+   "popupMissingHelper": {
+      "description": "Message displayed when there is an error because the product is not installed.",
+      "message": "Ez a bővítmény nem tud kapcsolódni a következőhöz: HP Wolf Security. Ellenőrizze, hogy a(z) HP Wolf Security kompatibilis verziója van-e telepítve, és az fut-e."
+   },
+   "popupNoError": {
+      "description": "Message displayed when there are no errors.",
+      "message": "A(z) HP Wolf Security védi Önt."
+   },
+   "popupSecureBrowserWindowButton": {
+      "description": "Button to open a new Secure Browser window.",
+      "message": "Új Secure Browser-ablak megnyitása"
+   },
+   "popupSureClickInitRequired": {
+      "description": "Message displayed when the product requires initialization.",
+      "message": "A(z) HP Sure Click inicializálása szükséges."
+   },
+   "popupSureClickUnconfigured": {
+      "description": "Message displayed to a consumer customer when the product is unlicensed.",
+      "message": "A(z) HP Sure Click konfigurálásra vár, és ki lett kapcsolva."
+   },
+   "popupSureClickUnlicensed": {
+      "description": "Message displayed to an enterprise customer when the product is unlicensed.",
+      "message": "A(z) HP Sure Click nem licencelt, és ki lett kapcsolva."
+   }
+}

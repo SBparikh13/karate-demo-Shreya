@@ -1,0 +1,189 @@
+{
+   "blockedLinkPageOpenedSecureExplanation": {
+      "description": "Explain to the user that they have opened the website in a secure web browser.",
+      "message": "您已在 HP Sure Click Secure Browser 中打開站點。"
+   },
+   "blockedLinkPageTitle": {
+      "description": "Warn the user that they may be visiting an unsafe website.",
+      "message": "此站點可能包含潛在威脅："
+   },
+   "blockedPDFPageOpenedSecureExplanation": {
+      "description": "Explain to the user that they have opened the PDF file in a secure web browser.",
+      "message": "您已在 HP Sure Click Secure Browser 中打開 PDF 檔案。"
+   },
+   "blockedPDFPageTitle": {
+      "description": "Warn the user that they may be about to view an unsafe PDF file.",
+      "message": "來自此站點的 PDF 檔案可能包含潛在威脅："
+   },
+   "blockedPageContinue": {
+      "description": "Button to continue using the original web browser.",
+      "message": "在此瀏覽器中繼續"
+   },
+   "blockedPageContinueV2": {
+      "description": "Button to continue using the original web browser.",
+      "message": "在 {THIS_BROWSER} 中繼續"
+   },
+   "blockedPageHelpLink": {
+      "description": "Help link text.",
+      "message": "瞭解更多"
+   },
+   "blockedPageRemember": {
+      "description": "Checkbox to remember the user's choice.",
+      "message": "記住我對此站點的決定"
+   },
+   "blockedPageSecure": {
+      "description": "Button to open the website in a secure web browser.",
+      "message": "在 HP Sure Click Secure Browser 中打開"
+   },
+   "blockedPageSecureBrowserExplanation": {
+      "description": "Explain the Secure Browser to the user.",
+      "message": "HP Sure Click Secure Browser 會幫助保護您的 PC 免受感染有惡意軟體、勒索軟體或病毒的網站和檔案的侵害。"
+   },
+   "blockedPageUntrustedTooltip": {
+      "description": "Tooltip explaining why an untrusted site has been blocked.",
+      "message": "HP Wolf Security 檢測到不受信任的網站"
+   },
+   "blockedPageWarningTooltip": {
+      "description": "Tooltip explaining why a site has been blocked.",
+      "message": "HP Wolf Security 檢測到未經確認的網站"
+   },
+   "contextMenuOpenSecure": {
+      "description": "Context menu item to open a link in a secure web browser.",
+      "message": "在 Secure Browser 中打開"
+   },
+   "extDescription": {
+      "description": "Web browser extension description.",
+      "message": "通過 HP Wolf Security 進行安全的互聯網瀏覽。"
+   },
+   "extName": {
+      "description": "Web browser extension name.",
+      "message": "HP Wolf Security Extension"
+   },
+   "helpLinkLocale": {
+      "message": "zh-Hant"
+   },
+   "launchedLinkPageOpenedSecureExplanation": {
+      "description": "Inform the user that the extension has opened the site in a secure web browser.",
+      "message": "站點已在 HP Sure Click Secure Browser 中打開。"
+   },
+   "launchedPDFPageOpenedSecureExplanation": {
+      "description": "Inform the user that the extension has opened the PDF file in a secure web browser.",
+      "message": "PDF 檔案已在 HP Sure Click Secure Browser 中打開。"
+   },
+   "launchedPageCloseTab": {
+      "description": "Text for a button to close the current tab.",
+      "message": "關閉選項卡"
+   },
+   "launchedPageGoBack": {
+      "description": "Text for a button to navigate back to the previous website.",
+      "message": "返回"
+   },
+   "optionsAllowedDomainsEmpty": {
+      "description": "Text displayed when there are no allowed domains.",
+      "message": "此列表當前為空"
+   },
+   "optionsAllowedDomainsSectionHeader": {
+      "description": "Section header for a list of websites for which credential entry has been allowed",
+      "message": "允許輸入憑證的網站："
+   },
+   "optionsPageLoggingToggle": {
+      "description": "Text beside a toggle to enable / disable logging.",
+      "message": "啟用日誌記錄"
+   },
+   "optionsPageNoOptions": {
+      "description": "Message telling the user that there's nothing for them to configure on the options page.",
+      "message": "您沒有任何要配置的選項。"
+   },
+   "overlayBlacklist_Description": {
+      "description": "Description of the warning",
+      "message": "HP Credential Protection 封鎖了一個已知的網路釣魚網站。"
+   },
+   "overlayBlacklist_Title": {
+      "description": "Title of the warning message to display to the user",
+      "message": "警告：已攔截憑證盜竊"
+   },
+   "overlayBlockedFile_Description": {
+      "description": "Description of the warning when blocking a file URL",
+      "message": "HP Credential Protection已阻止了一個潛在惡意檔案。"
+   },
+   "overlayHttpBlacklist_Description": {
+      "description": "Description of the warning when blocking an HTTP site",
+      "message": "HP Credential Protection 封鎖了一個未經加密即在網路上發送憑證的網站。"
+   },
+   "overlayHttpBlacklist_Title": {
+      "description": "Title of the warning.",
+      "message": "警告：已封鎖不安全的登入頁面"
+   },
+   "overlayManagedUnknown_Title": {
+      "description": "Title of the warning.",
+      "message": "警告：已攔截潛在憑證盜竊"
+   },
+   "overlayNormalUnknown_Description": {
+      "description": "Description for an unknown site.",
+      "message": "HP Credential Protection 封鎖了一個可能在試圖竊取你憑證的未知網站。"
+   },
+   "overlayNormalUnknown_Title": {
+      "description": "Title of the warning.",
+      "message": "警告：出現潛在憑證盜竊"
+   },
+   "overlay_AllowInputButton": {
+      "description": "Button text informing the user they can continue in full interactive mode.",
+      "message": "繼續，我信任此網站"
+   },
+   "overlay_BackToSafetyButton": {
+      "description": "A button for the user to click to get back to safety",
+      "message": "返回安全頁面"
+   },
+   "overlay_BlameAdmin": {
+      "description": "Notice to the user that they should contact their administrator if they think there's a mistake.",
+      "message": "如果你認為這是錯誤的，請聯繫你的 HP Wolf Security 管理員。"
+   },
+   "overlay_ViewPageLinkButton": {
+      "description": "A button for the user to continue to view the page with login disabled",
+      "message": "在登入停用的情況下繼續"
+   },
+   "popupClearRememberedDecisionsButton": {
+      "description": "Button to forget all decisions remembered by the extension.",
+      "message": "清除站點"
+   },
+   "popupClearRememberedDecisionsText": {
+      "description": "Message explaining that popupClearRememberedDecisionsButton forgets all decisions remembered by the extension.",
+      "message": "HP Wolf Security Extension 會記住您選擇使用 HP Sure Click Secure Browser 安全訪問哪些站點以及您選擇使用預設瀏覽器打開哪些站點。單擊下面的按鈕以清除這些選擇。"
+   },
+   "popupDisabled": {
+      "description": "Message displayed when the extension is disabled.",
+      "message": "HP Wolf Security Extension 已被停用。"
+   },
+   "popupGenericError": {
+      "description": "Message displayed when there is an unknown error. The '\n' marks a new line.",
+      "message": "HP Wolf Security 遇到錯誤。\n請重新啟動瀏覽器。"
+   },
+   "popupHelpLinkText": {
+      "description": "Text which links to the help page.",
+      "message": "獲取更多信息"
+   },
+   "popupMissingHelper": {
+      "description": "Message displayed when there is an error because the product is not installed.",
+      "message": "擴充程式無法連接到 HP Wolf Security。請檢查 HP Wolf Security 的兼容版本是否已安裝並正在運行。"
+   },
+   "popupNoError": {
+      "description": "Message displayed when there are no errors.",
+      "message": "您正在受到 HP Wolf Security 的保護。"
+   },
+   "popupSecureBrowserWindowButton": {
+      "description": "Button to open a new Secure Browser window.",
+      "message": "打開新的 Secure Browser 窗口"
+   },
+   "popupSureClickInitRequired": {
+      "description": "Message displayed when the product requires initialization.",
+      "message": "HP Sure Click 需要初始化。"
+   },
+   "popupSureClickUnconfigured": {
+      "description": "Message displayed to a consumer customer when the product is unlicensed.",
+      "message": "HP Sure Click 正在等待組態，已被停用。"
+   },
+   "popupSureClickUnlicensed": {
+      "description": "Message displayed to an enterprise customer when the product is unlicensed.",
+      "message": "HP Sure Click 未獲許可，已被停用。"
+   }
+}

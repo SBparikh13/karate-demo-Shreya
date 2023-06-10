@@ -1,0 +1,189 @@
+{
+   "blockedLinkPageOpenedSecureExplanation": {
+      "description": "Explain to the user that they have opened the website in a secure web browser.",
+      "message": "사이트가 HP Sure Click Secure Browser에서 열렸습니다."
+   },
+   "blockedLinkPageTitle": {
+      "description": "Warn the user that they may be visiting an unsafe website.",
+      "message": "이 사이트에 잠재적인 위협이 존재할 수 있습니다:"
+   },
+   "blockedPDFPageOpenedSecureExplanation": {
+      "description": "Explain to the user that they have opened the PDF file in a secure web browser.",
+      "message": "HP Sure Click Secure Browser에서 PDF 파일을 열었습니다."
+   },
+   "blockedPDFPageTitle": {
+      "description": "Warn the user that they may be about to view an unsafe PDF file.",
+      "message": "이 사이트의 PDF 파일에 잠재적인 위협이 존재할 수 있습니다:"
+   },
+   "blockedPageContinue": {
+      "description": "Button to continue using the original web browser.",
+      "message": "이 브라우저에서 계속하기"
+   },
+   "blockedPageContinueV2": {
+      "description": "Button to continue using the original web browser.",
+      "message": "{THIS_BROWSER}에서 계속하기"
+   },
+   "blockedPageHelpLink": {
+      "description": "Help link text.",
+      "message": "자세히 보기"
+   },
+   "blockedPageRemember": {
+      "description": "Checkbox to remember the user's choice.",
+      "message": "이 사이트에 대한 내 결정 기억"
+   },
+   "blockedPageSecure": {
+      "description": "Button to open the website in a secure web browser.",
+      "message": "HP Sure Click Secure Browser에서 열기"
+   },
+   "blockedPageSecureBrowserExplanation": {
+      "description": "Explain the Secure Browser to the user.",
+      "message": "HP Sure Click Secure Browser은(는) 악성 코드, 랜섬웨어 또는 바이러스에 감염된 웹사이트 및 파일로부터 PC를 보호합니다."
+   },
+   "blockedPageUntrustedTooltip": {
+      "description": "Tooltip explaining why an untrusted site has been blocked.",
+      "message": "HP Wolf Security이(가) 감지한 신뢰할 수 없는 웹사이트"
+   },
+   "blockedPageWarningTooltip": {
+      "description": "Tooltip explaining why a site has been blocked.",
+      "message": "HP Wolf Security이(가) 감지한 미확인 웹사이트"
+   },
+   "contextMenuOpenSecure": {
+      "description": "Context menu item to open a link in a secure web browser.",
+      "message": "Secure Browser에서 열기"
+   },
+   "extDescription": {
+      "description": "Web browser extension description.",
+      "message": "HP Wolf Security과 함께하는 안전한 인터넷 탐색"
+   },
+   "extName": {
+      "description": "Web browser extension name.",
+      "message": "HP Wolf Security Extension"
+   },
+   "helpLinkLocale": {
+      "message": "ko"
+   },
+   "launchedLinkPageOpenedSecureExplanation": {
+      "description": "Inform the user that the extension has opened the site in a secure web browser.",
+      "message": "사이트가 HP Sure Click Secure Browser에서 열렸습니다."
+   },
+   "launchedPDFPageOpenedSecureExplanation": {
+      "description": "Inform the user that the extension has opened the PDF file in a secure web browser.",
+      "message": "PDF 파일이 HP Sure Click Secure Browser에서 열렸습니다."
+   },
+   "launchedPageCloseTab": {
+      "description": "Text for a button to close the current tab.",
+      "message": "탭 닫기"
+   },
+   "launchedPageGoBack": {
+      "description": "Text for a button to navigate back to the previous website.",
+      "message": "돌아 가기"
+   },
+   "optionsAllowedDomainsEmpty": {
+      "description": "Text displayed when there are no allowed domains.",
+      "message": "목록이 현재 비어 있습니다."
+   },
+   "optionsAllowedDomainsSectionHeader": {
+      "description": "Section header for a list of websites for which credential entry has been allowed",
+      "message": "자격 증명 입력이 허용되는 사이트:"
+   },
+   "optionsPageLoggingToggle": {
+      "description": "Text beside a toggle to enable / disable logging.",
+      "message": "로깅 활성화"
+   },
+   "optionsPageNoOptions": {
+      "description": "Message telling the user that there's nothing for them to configure on the options page.",
+      "message": "구성할 옵션이 없습니다."
+   },
+   "overlayBlacklist_Description": {
+      "description": "Description of the warning",
+      "message": "HP Credential Protection이(가) 알려진 피싱 사이트를 차단했습니다."
+   },
+   "overlayBlacklist_Title": {
+      "description": "Title of the warning message to display to the user",
+      "message": "경고: 자격 증명 도용 차단"
+   },
+   "overlayBlockedFile_Description": {
+      "description": "Description of the warning when blocking a file URL",
+      "message": "HP Credential Protection이(가) 잠재적인 악성 파일을 차단했습니다."
+   },
+   "overlayHttpBlacklist_Description": {
+      "description": "Description of the warning when blocking an HTTP site",
+      "message": "HP Credential Protection이(가) 암호화 없이 인터넷으로 자격 증명을 전송하는 사이트를 차단했습니다."
+   },
+   "overlayHttpBlacklist_Title": {
+      "description": "Title of the warning.",
+      "message": "경고: 안전하지 않은 로그인 페이지 차단"
+   },
+   "overlayManagedUnknown_Title": {
+      "description": "Title of the warning.",
+      "message": "경고: 잠재적 자격 증명 도용 차단"
+   },
+   "overlayNormalUnknown_Description": {
+      "description": "Description for an unknown site.",
+      "message": "HP Credential Protection이(가) 자격 증명을 도용할 수도 있는 알 수 없는 사이트를 차단했습니다."
+   },
+   "overlayNormalUnknown_Title": {
+      "description": "Title of the warning.",
+      "message": "경고: 잠재적 자격 증명 도용"
+   },
+   "overlay_AllowInputButton": {
+      "description": "Button text informing the user they can continue in full interactive mode.",
+      "message": "이 사이트를 신뢰합니다, 계속"
+   },
+   "overlay_BackToSafetyButton": {
+      "description": "A button for the user to click to get back to safety",
+      "message": "안전한 환경으로 돌아가기"
+   },
+   "overlay_BlameAdmin": {
+      "description": "Notice to the user that they should contact their administrator if they think there's a mistake.",
+      "message": "이러한 구성이 잘못되었다고 생각되면 HP Wolf Security 관리자에게 연락하십시오."
+   },
+   "overlay_ViewPageLinkButton": {
+      "description": "A button for the user to continue to view the page with login disabled",
+      "message": "로그인이 비활성화된 상태로 계속"
+   },
+   "popupClearRememberedDecisionsButton": {
+      "description": "Button to forget all decisions remembered by the extension.",
+      "message": "사이트 지우기"
+   },
+   "popupClearRememberedDecisionsText": {
+      "description": "Message explaining that popupClearRememberedDecisionsButton forgets all decisions remembered by the extension.",
+      "message": "HP Wolf Security Extension이(가) HP Sure Click Secure Browser을(를) 사용하여 안전하게 액세스한 사이트와 기본 브라우저를 사용하여 액세스한 사이트를 기억합니다. 선택 사항을 취소하려면 아래 버튼을 클릭하십시오."
+   },
+   "popupDisabled": {
+      "description": "Message displayed when the extension is disabled.",
+      "message": "HP Wolf Security Extension이(가) 비활성화되었습니다."
+   },
+   "popupGenericError": {
+      "description": "Message displayed when there is an unknown error. The '\n' marks a new line.",
+      "message": "HP Wolf Security에 오류가 발생했습니다.\n브라우저를 다시 시작하십시오."
+   },
+   "popupHelpLinkText": {
+      "description": "Text which links to the help page.",
+      "message": "상세 정보"
+   },
+   "popupMissingHelper": {
+      "description": "Message displayed when there is an error because the product is not installed.",
+      "message": "확장이 HP Wolf Security에 연결될 수 없습니다. 호환되는 HP Wolf Security 버전이 설치되어 실행 중인지 확인하십시오."
+   },
+   "popupNoError": {
+      "description": "Message displayed when there are no errors.",
+      "message": "귀하는 HP Wolf Security에 의해 보호되고 있습니다."
+   },
+   "popupSecureBrowserWindowButton": {
+      "description": "Button to open a new Secure Browser window.",
+      "message": "새 Secure Browser 열기"
+   },
+   "popupSureClickInitRequired": {
+      "description": "Message displayed when the product requires initialization.",
+      "message": "HP Sure Click 초기화가 필요합니다."
+   },
+   "popupSureClickUnconfigured": {
+      "description": "Message displayed to a consumer customer when the product is unlicensed.",
+      "message": "HP Sure Click이(가) 구성 대기 중이며 비활성화되었습니다."
+   },
+   "popupSureClickUnlicensed": {
+      "description": "Message displayed to an enterprise customer when the product is unlicensed.",
+      "message": "HP Sure Click 라이센스가 없고 비활성화되었습니다."
+   }
+}
